@@ -23,3 +23,4 @@ if __name__ == "__main__":
         print(storeCredit(credit, finalitems))
 
 # 100, [50, 25, 75] = 2 3
+# 200, [150,24,79,50,88,345,3] = 1 4
